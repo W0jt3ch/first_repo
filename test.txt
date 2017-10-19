@@ -1,3 +1,5 @@
 1. pierwsze zajęcia z oprogramowaniem git
 
 pierwsz zmiana
+2. druga zmiana
+zobaczymy
